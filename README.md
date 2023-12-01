@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/adiyadav123"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adiyadav123&langs_count=14&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="470px"  alt="Yipmong"/></a>
+<a href="https://github.com/adiyadav123"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adiyadav123&langs_count=14&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="470px"  alt="adiyadav123"/></a>
 </p>
 
 <div align='center'>
